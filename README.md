@@ -1,4 +1,48 @@
-### Hi there 👋
+![LinkedIn cover - 1](https://github.com/LGarzaN/LGarzaN/assets/105826525/7654a063-2b4b-4d5b-8f7c-2a25f4a353c6)
+
+
+# 👋 Hello there! I'm Luis Garza
+### I'm a passionate software engineer and a dedicated computer science student at Tecnológico de Monterrey. 🚀 
+
+🔭 I’m currently working on [PicMesh](https://github.com/LGarzaN/PicMesh)
+
+🌱 I’m currently learning **React Native, AWS, and the Linux shell**
+
+📫 How to reach me: <p align="left">
+<a href="https://linkedin.com/in/luis-garza-naranjo-0b69a9251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: Luis Garza Naranjo" height="30" width="59" /></a>
+</p>
+
+
+## Languages, Tools, and Frameworks
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50"/>
+</p>
+
+<br />
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LGarzaN&show_icons=true&locale=en&layout=compact" alt="LGarzaN" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LGarzaN&show_icons=true&locale=en" alt="LGarzaN" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LGarzaN&" alt="LGarzaN" /></p>
+
+
 
 <!--
 **LGarzaN/LGarzaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
