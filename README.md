@@ -4,6 +4,8 @@
 # 👋 Hello there! I'm Luis Garza
 ### I'm a passionate software engineer and a dedicated computer science student at Tecnológico de Monterrey. 🚀 
 
+💼 I currently work at [DataExpress](https://dataexpress.tech)
+
 🔭 I’m currently working on [PicMesh](https://github.com/LGarzaN/PicMesh)
 
 🌱 I’m currently learning **React Native, AWS, and the Linux shell**
