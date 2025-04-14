@@ -2,13 +2,9 @@
 
 
 # 👋 Hello there! I'm Luis Garza
-### I'm a passionate software engineer and a dedicated computer science student at Tecnológico de Monterrey. 🚀 
+### I'm a passionate Software Engineer and a dedicated computer science student at Tecnológico de Monterrey. 🚀 
 
-💼 I'm currently interning at [CEMEX](https://www.cemex.com/) in Enterprise & Data Architecture.
-
-🔭 I’m currently working on [PicMesh](https://github.com/LGarzaN/PicMesh)
-
-🌱 I’m currently learning **React Native, AWS, and the Linux shell**
+💼 I'm currently a Software Development Engineer at Amazon
 
 📫 How to reach me: <p align="left">
 <a href="https://linkedin.com/in/luis-garza-naranjo-0b69a9251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: Luis Garza Naranjo" height="30" width="59" /></a>
