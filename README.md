@@ -24,7 +24,7 @@ I'm a passionate software engineer from Mexico with a B.S. in Computer Science f
 |---------|-------------|
 | [DreamLab](https://github.com/LGarzaN/DreamLab) | Full-stack platform with a React frontend, Node.js backend, and an AI-powered chatbot |
 | [PicMesh](https://github.com/LGarzaN/PicMesh) | Full-stack image platform with a dedicated REST backend API |
-| [EasyTranscribe](https://github.com/LGarzaN/EasyTranscribe) | Audio transcription tool built for speed and ease of use |
+| [MedTracker](https://github.com/LGarzaN/RetoIOS) | IOS app for patients to track their symptons. Doctors can easily view these |
 | [Datathon](https://github.com/LGarzaN/Datathon) | Data science competition project featuring data analysis and ML pipelines |
 
 ---
